@@ -1,0 +1,2056 @@
+{
+  "name": "stage1",
+  "tileset": "assets/rooms/room1.png",
+  "tileSize": 32,
+  "mapWidth": 25,
+  "mapHeight": 16,
+  "layers": {
+    "floor": [
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "furniture": [
+      {
+        "src": "kenney_map-pack/PNG/mapTile_021.png",
+        "x": 0,
+        "y": 128,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_021.png",
+        "x": 32,
+        "y": 224,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_021.png",
+        "x": 0,
+        "y": 192,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_021.png",
+        "x": 0,
+        "y": 256,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_021.png",
+        "x": 32,
+        "y": 320,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_021.png",
+        "x": 0,
+        "y": 352,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_021.png",
+        "x": 0,
+        "y": 320,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_021.png",
+        "x": 32,
+        "y": 416,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_021.png",
+        "x": 0,
+        "y": 448,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_021.png",
+        "x": 0,
+        "y": 416,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_021.png",
+        "x": 32,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_021.png",
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_021.png",
+        "x": 0,
+        "y": 64,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 64,
+        "y": 32,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 96,
+        "y": 128,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 64,
+        "y": 96,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 96,
+        "y": 160,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 96,
+        "y": 160,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 64,
+        "y": 160,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 64,
+        "y": 160,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 96,
+        "y": 256,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 64,
+        "y": 288,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 64,
+        "y": 384,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 96,
+        "y": 224,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 96,
+        "y": 352,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 128,
+        "y": 352,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 96,
+        "y": 480,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 64,
+        "y": 480,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 128,
+        "y": 448,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 96,
+        "y": 448,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 128,
+        "y": 416,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 128,
+        "y": 320,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 128,
+        "y": 96,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 96,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 128,
+        "y": 64,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 128,
+        "y": 32,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 128,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 128,
+        "y": 96,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 128,
+        "y": 160,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 128,
+        "y": 224,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 128,
+        "y": 288,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_082.png",
+        "x": 160,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_082.png",
+        "x": 160,
+        "y": 64,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_082.png",
+        "x": 160,
+        "y": 128,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_082.png",
+        "x": 160,
+        "y": 192,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_082.png",
+        "x": 160,
+        "y": 256,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_082.png",
+        "x": 160,
+        "y": 320,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_082.png",
+        "x": 160,
+        "y": 384,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_082.png",
+        "x": 160,
+        "y": 448,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_082.png",
+        "x": 192,
+        "y": 448,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_082.png",
+        "x": 192,
+        "y": 416,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_082.png",
+        "x": 192,
+        "y": 384,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_082.png",
+        "x": 192,
+        "y": 352,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_082.png",
+        "x": 224,
+        "y": 320,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_082.png",
+        "x": 224,
+        "y": 256,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_082.png",
+        "x": 256,
+        "y": 192,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_082.png",
+        "x": 224,
+        "y": 128,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_082.png",
+        "x": 224,
+        "y": 192,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_082.png",
+        "x": 224,
+        "y": 64,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_082.png",
+        "x": 224,
+        "y": 32,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_025.png",
+        "x": 256,
+        "y": 32,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_025.png",
+        "x": 256,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_025.png",
+        "x": 224,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_025.png",
+        "x": 288,
+        "y": 160,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_025.png",
+        "x": 288,
+        "y": 128,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_025.png",
+        "x": 288,
+        "y": 96,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_025.png",
+        "x": 288,
+        "y": 256,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_025.png",
+        "x": 288,
+        "y": 320,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_025.png",
+        "x": 256,
+        "y": 384,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_025.png",
+        "x": 256,
+        "y": 448,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_060.png",
+        "x": 256,
+        "y": 448,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_060.png",
+        "x": 224,
+        "y": 416,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_060.png",
+        "x": 224,
+        "y": 352,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_060.png",
+        "x": 256,
+        "y": 288,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_060.png",
+        "x": 256,
+        "y": 224,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_060.png",
+        "x": 256,
+        "y": 64,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_105.png",
+        "x": 224,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_105.png",
+        "x": 192,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_027.png",
+        "x": 352,
+        "y": 224,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_027.png",
+        "x": 320,
+        "y": 224,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_027.png",
+        "x": 352,
+        "y": 384,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_027.png",
+        "x": 320,
+        "y": 384,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_027.png",
+        "x": 320,
+        "y": 448,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_027.png",
+        "x": 384,
+        "y": 320,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_027.png",
+        "x": 352,
+        "y": 320,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_027.png",
+        "x": 352,
+        "y": 288,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_050.png",
+        "x": 32,
+        "y": 128,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_sci-fi-rts/PNG/Default size/Environment/scifiEnvironment_07.png",
+        "x": 64,
+        "y": 224,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_sci-fi-rts/PNG/Default size/Environment/scifiEnvironment_07.png",
+        "x": 192,
+        "y": 160,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 416,
+        "y": 192,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 384,
+        "y": 160,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 352,
+        "y": 160,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 384,
+        "y": 96,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 352,
+        "y": 96,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 352,
+        "y": 32,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 320,
+        "y": 32,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 480,
+        "y": 128,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 416,
+        "y": 160,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 448,
+        "y": 96,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 416,
+        "y": 64,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 448,
+        "y": 288,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 416,
+        "y": 256,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 448,
+        "y": 384,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 416,
+        "y": 384,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 416,
+        "y": 448,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 384,
+        "y": 480,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 384,
+        "y": 448,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 480,
+        "y": 352,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 448,
+        "y": 352,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 480,
+        "y": 448,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 512,
+        "y": 416,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_sci-fi-rts/PNG/Default size/Environment/scifiEnvironment_04.png",
+        "x": 320,
+        "y": 448,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 480,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 384,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 352,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 448,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 352,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 320,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 512,
+        "y": 64,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 480,
+        "y": 64,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 512,
+        "y": 192,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 480,
+        "y": 192,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 544,
+        "y": 256,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 480,
+        "y": 256,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 544,
+        "y": 320,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 512,
+        "y": 320,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 576,
+        "y": 384,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 544,
+        "y": 384,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 576,
+        "y": 448,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 544,
+        "y": 480,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 544,
+        "y": 32,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 544,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 576,
+        "y": 128,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 544,
+        "y": 128,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 576,
+        "y": 96,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 608,
+        "y": 32,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 608,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 640,
+        "y": 96,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 608,
+        "y": 192,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 576,
+        "y": 224,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 576,
+        "y": 192,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 640,
+        "y": 288,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 608,
+        "y": 288,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 608,
+        "y": 352,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 640,
+        "y": 160,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 640,
+        "y": 256,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 640,
+        "y": 416,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 640,
+        "y": 480,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 672,
+        "y": 64,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 672,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 672,
+        "y": 224,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 704,
+        "y": 128,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 704,
+        "y": 192,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 704,
+        "y": 288,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 672,
+        "y": 352,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 704,
+        "y": 416,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 704,
+        "y": 480,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 736,
+        "y": 384,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 736,
+        "y": 352,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 768,
+        "y": 448,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 768,
+        "y": 320,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 768,
+        "y": 288,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 768,
+        "y": 256,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 736,
+        "y": 256,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 768,
+        "y": 224,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 768,
+        "y": 192,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 768,
+        "y": 192,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 768,
+        "y": 160,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 768,
+        "y": 160,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 768,
+        "y": 128,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 768,
+        "y": 96,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 768,
+        "y": 96,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 768,
+        "y": 96,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 736,
+        "y": 96,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 768,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 736,
+        "y": 32,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_022.png",
+        "x": 736,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_082.png",
+        "x": 288,
+        "y": 160,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_082.png",
+        "x": 352,
+        "y": 160,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_082.png",
+        "x": 416,
+        "y": 96,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_082.png",
+        "x": 416,
+        "y": 160,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_082.png",
+        "x": 416,
+        "y": 64,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_082.png",
+        "x": 448,
+        "y": 32,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_082.png",
+        "x": 544,
+        "y": 32,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_082.png",
+        "x": 512,
+        "y": 32,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_082.png",
+        "x": 608,
+        "y": 64,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_082.png",
+        "x": 640,
+        "y": 128,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_082.png",
+        "x": 704,
+        "y": 160,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_082.png",
+        "x": 768,
+        "y": 160,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_082.png",
+        "x": 672,
+        "y": 160,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_082.png",
+        "x": 640,
+        "y": 192,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_082.png",
+        "x": 640,
+        "y": 96,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_082.png",
+        "x": 672,
+        "y": 64,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_187.png",
+        "x": 320,
+        "y": 448,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_187.png",
+        "x": 384,
+        "y": 480,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_187.png",
+        "x": 384,
+        "y": 448,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_sci-fi-rts/PNG/Default size/Tile/scifiTile_09.png",
+        "x": 256,
+        "y": 480,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_sci-fi-rts/PNG/Default size/Tile/scifiTile_09.png",
+        "x": 192,
+        "y": 480,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_sci-fi-rts/PNG/Default size/Tile/scifiTile_09.png",
+        "x": 160,
+        "y": 480,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_sci-fi-rts/PNG/Default size/Tile/scifiTile_09.png",
+        "x": 96,
+        "y": 480,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_sci-fi-rts/PNG/Default size/Tile/scifiTile_09.png",
+        "x": 32,
+        "y": 480,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_sci-fi-rts/PNG/Default size/Tile/scifiTile_09.png",
+        "x": 0,
+        "y": 480,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_027.png",
+        "x": 480,
+        "y": 320,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_027.png",
+        "x": 448,
+        "y": 320,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_027.png",
+        "x": 544,
+        "y": 352,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_027.png",
+        "x": 576,
+        "y": 320,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_027.png",
+        "x": 544,
+        "y": 320,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_027.png",
+        "x": 576,
+        "y": 416,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_027.png",
+        "x": 544,
+        "y": 416,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_027.png",
+        "x": 576,
+        "y": 384,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_027.png",
+        "x": 576,
+        "y": 480,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_027.png",
+        "x": 576,
+        "y": 480,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_027.png",
+        "x": 544,
+        "y": 480,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_035.png",
+        "x": 384,
+        "y": 128,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_035.png",
+        "x": 416,
+        "y": 32,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_059.png",
+        "x": 352,
+        "y": 416,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_115.png",
+        "x": 480,
+        "y": 128,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_115.png",
+        "x": 448,
+        "y": 256,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_115.png",
+        "x": 512,
+        "y": 192,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_115.png",
+        "x": 480,
+        "y": 192,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_115.png",
+        "x": 576,
+        "y": 256,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_115.png",
+        "x": 512,
+        "y": 224,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_115.png",
+        "x": 512,
+        "y": 256,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_115.png",
+        "x": 544,
+        "y": 128,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_115.png",
+        "x": 544,
+        "y": 128,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_115.png",
+        "x": 544,
+        "y": 96,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_sci-fi-rts/PNG/Retina/Environment/scifiEnvironment_10.png",
+        "x": 448,
+        "y": 384,
+        "w": 128,
+        "h": 128
+      },
+      {
+        "src": "kenney_sci-fi-rts/PNG/Retina/Environment/scifiEnvironment_17.png",
+        "x": 576,
+        "y": 192,
+        "w": 128,
+        "h": 128
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_055.png",
+        "x": 672,
+        "y": 288,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "kenney_map-pack/PNG/mapTile_034.png",
+        "x": 416,
+        "y": 192,
+        "w": 64,
+        "h": 64
+      }
+    ]
+  },
+  "collisions": []
+}

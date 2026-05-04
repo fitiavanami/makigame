@@ -1,14 +1,20 @@
 import Phaser from 'phaser'
-import GameScene from './scenes/GameScene.js'
+import MenuScene from './scenes/MenuScene.js'
+import Stage1 from './scenes/Stage1.js'
 
-new Phaser.Game({
-    type: Phaser.AUTO,
-    width: 800,
-    height: 600,
-    backgroundColor: '#1a1a2e',
-    physics: {
-        default: 'arcade',
-        arcade: { debug: false }
-    },
-    scene: [GameScene]
-})
+const config = {
+  type: Phaser.AUTO,
+  width: 800,
+  height: 600,
+  pixelArt: true, // Garde les pixels nets
+  physics: {
+    default: 'arcade',
+    arcade: { 
+        gravity: { y: 0 }, 
+        debug: false // Changez à true pour voir les boîtes de collision
+    }
+  },
+  scene: [MenuScene, Stage1]
+}
+
+export default new Phaser.Game(config)
