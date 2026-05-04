@@ -1,0 +1,26 @@
+{
+  "hash": "ac7da440",
+  "configHash": "dc4c4be0",
+  "lockfileHash": "e3b0c442",
+  "browserHash": "686ef41b",
+  "optimized": {
+    "@tialops/maki": {
+      "src": "../../../../../../../../../usr/local/lib/node_modules/@tialops/maki/index.js",
+      "file": "@tialops_maki.js",
+      "fileHash": "e92889b8",
+      "needsInterop": false
+    },
+    "phaser": {
+      "src": "../../../../../../../../../usr/local/lib/node_modules/@tialops/maki/node_modules/phaser/dist/phaser.js",
+      "file": "phaser.js",
+      "fileHash": "668257d8",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "phaser-C5CM1aku": {
+      "file": "phaser-C5CM1aku.js",
+      "isDynamicEntry": false
+    }
+  }
+}
